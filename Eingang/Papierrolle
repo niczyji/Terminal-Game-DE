@@ -1,0 +1,16 @@
+Wir schleichen uns in das Haus des Dunkelmannes, um ihm sein magisches Schwert zu stehlen. Findet Hinweise, um in den geheimen Raum zu gelangen, indem der Schatz versteckt ist.
+
+Um in der Dunkelheit zu sehen, tippen Sie: ls
+Um sich zu bewegen, geben Sie ein: cd <Verzeichnis>
+Um zurückzukommen, tippen Sie: cd ..
+
+Versuchen Sie, sich in diesem Raum umzusehen.
+Gehen Sie dann in einen der nächsten Räume.
+
+BEISPIEL:
+
+$ ls 
+$ cd-Keller
+$ cd ..
+
+Denken Sie daran, ``ls`` zu nutzen, wenn Sie in den nächsten Raum kommen!
