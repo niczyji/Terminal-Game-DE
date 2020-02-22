@@ -19,13 +19,14 @@ Sobald Sie etwas wie
 $ cd /home/Ihr_Benutzername /Downloads/Terminal-Game/Eingang
 ```
 
-in Ihrem Terminal fenster, drücken Sie RETURN.
+in Ihrem Terminal Fenster, drücken Sie RETURN(ENTER).
 Der genaue Pfad zum Eingang variiert, je nachdem, wo Sie die Datei gespeichert haben.
 
 Ihr erster Schritt ist sehr wichtig.
 Geben Sie dies in Ihr Terminal ein:
 
 ```
+cd Eingang
 cat Papierrolle
 ```
 

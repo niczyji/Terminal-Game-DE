@@ -1,5 +1,10 @@
 Bravo, Sie haben einen Hinweis gefunden.
-Um den Lehrtaste im Terminal einzugeben, tippen Sie "\ " - Schrägstrich vor dem Leerzeichen.
-Oder nutze Sie Taste "TAB" die neben "Q" ist.
 
-Beispiel: cd Zimmer\ Oben\ Links/
+Leertaste
+Normale Leertaste im Terminal funktioniert nicht.
+Um den Leertaste im Terminal einzugeben, tippen Sie "\ " - Schrägstrich vor dem Leerzeichen.
+"Beispiel: cd Zimmer\ Oben\ Links/"
+
+
+Tabulator
+Befehle und Dateinamen werden durch die Tabulatortaste Tab ⇆ automatisch ergänzt. Wenn dies nicht eindeutig möglich ist, werden bei einem weiteren Tab ⇆ alle Möglichkeiten zur Auswahl aufgelistet. Nun gibt man den eindeutigen Anfangsteil des entsprechenden Vorschlags ein und betätigt erneut die Tab ⇆ . Dies macht man solange bis der Befehl komplett ist und mit ⏎ zur Ausführung gebracht werden kann. Damit erspart man sich z.B. die fehlerträchtige Handeingabe sehr langer Dateinamen, siehe dazu Autovervollständigung.
